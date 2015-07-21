@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	T "github.com/rakyll/drivefuse/third_party/launchpad.net/gocheck"
+	T "github.com/odeke-em/drivefuse/third_party/launchpad.net/gocheck"
 )
 
 // Create the test suite

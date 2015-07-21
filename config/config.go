@@ -24,7 +24,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/rakyll/drivefuse/logger"
+	"github.com/odeke-em/drivefuse/logger"
 )
 
 const (

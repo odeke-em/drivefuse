@@ -20,9 +20,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rakyll/drivefuse/blob"
-	"github.com/rakyll/drivefuse/logger"
-	"github.com/rakyll/drivefuse/metadata"
+	"github.com/odeke-em/drivefuse/blob"
+	"github.com/odeke-em/drivefuse/logger"
+	"github.com/odeke-em/drivefuse/metadata"
 )
 
 const (

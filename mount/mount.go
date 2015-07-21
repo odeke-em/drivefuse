@@ -18,9 +18,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/rakyll/drivefuse/blob"
-	"github.com/rakyll/drivefuse/metadata"
-	"github.com/rakyll/drivefuse/third_party/code.google.com/p/rsc/fuse"
+	"github.com/odeke-em/drivefuse/blob"
+	"github.com/odeke-em/drivefuse/metadata"
+	"github.com/odeke-em/drivefuse/third_party/code.google.com/p/rsc/fuse"
 )
 
 const (

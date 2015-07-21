@@ -19,11 +19,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rakyll/drivefuse/auth"
-	"github.com/rakyll/drivefuse/config"
-	"github.com/rakyll/drivefuse/logger"
-	"github.com/rakyll/drivefuse/third_party/code.google.com/p/goauth2/oauth"
-	"github.com/rakyll/drivefuse/third_party/code.google.com/p/google-api-go-client/drive/v2"
+	"github.com/odeke-em/drivefuse/auth"
+	"github.com/odeke-em/drivefuse/config"
+	"github.com/odeke-em/drivefuse/logger"
+	"github.com/odeke-em/third_party/code.google.com/p/goauth/oauth"
+	"github.com/google/google-api-go-client/drive/v2"
 )
 
 const (

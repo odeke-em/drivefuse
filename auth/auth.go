@@ -19,8 +19,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rakyll/drivefuse/config"
-	"github.com/rakyll/drivefuse/third_party/code.google.com/p/goauth2/oauth"
+	"github.com/odeke-em/drivefuse/config"
+	"github.com/odeke-em/drivefuse/third_party/code.google.com/p/goauth2/oauth"
 )
 
 const (

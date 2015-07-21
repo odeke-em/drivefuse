@@ -22,16 +22,16 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/rakyll/drivefuse/auth"
-	"github.com/rakyll/drivefuse/blob"
-	"github.com/rakyll/drivefuse/cmd"
-	"github.com/rakyll/drivefuse/config"
-	"github.com/rakyll/drivefuse/logger"
-	"github.com/rakyll/drivefuse/metadata"
-	"github.com/rakyll/drivefuse/mount"
-	"github.com/rakyll/drivefuse/syncer"
+	"github.com/odeke-em/drivefuse/auth"
+	"github.com/odeke-em/drivefuse/blob"
+	"github.com/odeke-em/drivefuse/cmd"
+	"github.com/odeke-em/drivefuse/config"
+	"github.com/odeke-em/drivefuse/logger"
+	"github.com/odeke-em/drivefuse/metadata"
+	"github.com/odeke-em/drivefuse/mount"
+	"github.com/odeke-em/drivefuse/syncer"
 
-	client "github.com/rakyll/drivefuse/third_party/code.google.com/p/google-api-go-client/drive/v2"
+	client "github.com/google/google-api-go-client/drive/v2"
 )
 
 var (

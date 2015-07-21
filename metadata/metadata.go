@@ -21,9 +21,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rakyll/drivefuse/logger"
-	"github.com/rakyll/drivefuse/third_party/github.com/coopernurse/gorp"
-	_ "github.com/rakyll/drivefuse/third_party/github.com/mattn/go-sqlite3"
+	"github.com/odeke-em/drivefuse/logger"
+	"github.com/go-gorp/gorp"
+	"github.com/mattn/go-sqlite3"
 )
 
 const (

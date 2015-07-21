@@ -23,7 +23,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/rakyll/drivefuse/logger"
+	"github.com/odeke-em/drivefuse/logger"
 )
 
 type Manager struct {

@@ -18,11 +18,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rakyll/drivefuse/blob"
-	"github.com/rakyll/drivefuse/logger"
-	"github.com/rakyll/drivefuse/metadata"
-	"github.com/rakyll/drivefuse/third_party/code.google.com/p/goauth2/oauth"
-	client "github.com/rakyll/drivefuse/third_party/code.google.com/p/google-api-go-client/drive/v2"
+	"github.com/odeke-em/drivefuse/blob"
+	"github.com/odeke-em/drivefuse/logger"
+	"github.com/odeke-em/drivefuse/metadata"
+	"github.com/odeke-em/drivefuse/third_party/code.google.com/p/goauth2/oauth"
+	client "github.com/odeke-em/drivefuse/third_party/code.google.com/p/google-api-go-client/drive/v2"
 )
 
 const (
